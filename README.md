@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, There!
+
+My name is Benjamin but I'm better known as CosmoXD, I'm a student but I like make games and software.
+
+I'm currently working on... Nothing!, But in the E3 date I will reveal a new game.
+
 
 <!--
 **ElCosmoXD/ElCosmoXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
