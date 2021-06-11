@@ -2,7 +2,7 @@
 
 My name is Benjamin but I'm better known as CosmoXD, I'm a student but I like make games and software.
 
-I'm currently working on... Nothing!, But in the E3 date I will reveal a new game.
+I'm currently working on Crystal Engine, Is a simple 2D game engine that works with SDL2 but i'm not sure if is a game engine🤣, In the future i will make the repository public.
 
 
 <!--
