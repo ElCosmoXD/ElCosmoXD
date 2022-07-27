@@ -1,7 +1,8 @@
 ### Hello, There!
 
-My name is Benjamin but I'm better known as CosmoXD, I'm a student but I like make games and software.
-Currently i'm just making games and eventually I will create a open source program.
+My name is Benjamin but I'm better known as CosmoXD, I like programming and low level programming languages.
+
+[![MocoXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=elcosmoxd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
