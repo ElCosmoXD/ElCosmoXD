@@ -7,10 +7,10 @@ My name is Benjamin, I like programming and low level programming languages.
 * I'm a student
 * I'm from Chile
 * I work mainly with C#, Rust and C++
-* I can speak Spanish, English, and currently learning Japanese
+* I can speak Spanish, English, and currently learning Chinese & Japanese
 * I develop games (Under the name/project [Pixel Barrels](https://pixel-barrels.itch.io/))
 * My favorite game engines are Unity and Godot
-* Currently working on ShapeWorld: FightLand
+* Currently working on ShapeWorld: FightLand (Early Access)
 * My favorite game is Xenoblade Chronicles 2
 
 [![MocoXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=elcosmoxd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
