@@ -10,5 +10,5 @@ My name is Benjamin, I like programming and low level programming languages.
 * I can speak Spanish, English, and currently learning Chinese & Japanese
 * I develop games (Under the name/project [Pixel Barrels](https://pixel-barrels.itch.io/))
 * My favorite game engines are Unity and Godot
-* Currently working on ShapeWorld: FightLand (Working on the Early Access)
+* Currently working on ShapeWorld: FightLand (Working on the Early Access) and ShapeWorld: After Origins (Version 2.0.0)
 * My favorite game is Xenoblade Chronicles 2
