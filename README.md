@@ -1,14 +1,14 @@
 ### Hello, There!
 
-My name is Benjamin, I like programming and low level programming languages.
+My name is Benjamin, I like programming and low level stuff.
 
 ### About Me
 
 * I'm a student
-* I'm from Chile
-* I work mainly with C#, Rust and C++
-* I can speak Spanish, English, and currently learning Chinese & Japanese
-* I develop games (Under the name/project [Pixel Barrels](https://pixel-barrels.itch.io/))
-* My favorite game engines are Unity and Godot
-* Currently working on ShapeWorld: FightLand (Working on the Early Access) and ShapeWorld: After Origins (Version 2.0.0)
+* I'm from Chile, the best country of Chile
+* I work mostly with C#, Rust and C++
+* I speak Spanish, English, and I'm currently learning Chinese
+* I develop games as [Pixel Barrels](https://pixel-barrels.itch.io/)
+* My favorite game engines are Unity and Unreal Engine
+* Currently working on ShapeWorld: FightLand (Almost finished the Early Access!)
 * My favorite game is Xenoblade Chronicles 2
