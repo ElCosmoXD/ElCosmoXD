@@ -1,14 +1,43 @@
 ### Hello, There!
 
-My name is Benjamin, I like programming and low level stuff.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1000&pause=5000&color=661fad&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hello! I'm Cosmo!;CS+Student+%7C+Game+Developer" height="70" alt="Typing SVG"/>
+  </a>
+     <br/>
+    <br/>
+    <a href="https://github.com/TungusSs">
+        <img src="https://github-stats-alpha.vercel.app/api?username=ElCosmoXD&cc=22272e&tc=cc9cfc&ic=fff&bc=0000">
+    </a>
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="100" alt="dot-net logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cs" height="100" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="100" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=rust" height="100" alt="rust logo"  />
+  <img width="15" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=c" height="100" alt="c logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=unity" height="100" alt="unity logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="100" alt="unreal logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=godot" height="100" alt="godot logo"  />
+  <img width="15" />
+</div>
 
 ### About Me
 
-* I'm a student
+* I'm a student (from University of Santiago, Chile)
 * I'm from Chile, the best country of Chile
-* I work mostly with C#, Rust and C++
+* I mostly work with C, C++, Rust and C#
 * I speak Spanish, English, and I'm currently learning Chinese
 * I develop games as [Pixel Barrels](https://pixel-barrels.itch.io/)
-* My favorite game engines are Unity and Unreal Engine
-* Currently working on ShapeWorld: FightLand version 1.1.0!
+* My favorite game engines are Unity, Unreal Engine and Godot
+* Currently working on: surviving at the university :)
 * My favorite game is Xenoblade Chronicles 2
