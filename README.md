@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1000&pause=5000&color=661fad&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hello! I'm Cosmo!;CS+Student+%7C+Game+Developer" height="70" alt="Typing SVG"/>
-  </a>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains&duration=1000&pause=500&color=7B12E9&center=true&multiline=true&repeat=false&width=435&lines=Hello!+I'm+Cosmo!;CS+Student+%7C+Game+Developer" alt="Typing SVG" /></a>
      <br/>
     <br/>
     <a href="https://github.com/TungusSs">
