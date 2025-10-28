@@ -32,11 +32,11 @@
 
 ### About Me
 
-* I'm a student (from University of Santiago, Chile)
+* I'm a student
 * I'm from Chile, the best country of Chile
-* I mostly work with C, C++, Rust and C#
+* I mostly work with C++, Rust and C#
 * I speak Spanish, English, and I'm currently learning Chinese
 * I develop games as [Pixel Barrels](https://pixel-barrels.itch.io/)
-* My favorite game engines are Unity, Unreal Engine and Godot
-* Currently working on: surviving at the university :)
+* My favorite game engines are always Unreal Engine, Unity and Godot
+* Currently working on: making myself better
 * My favorite game is Xenoblade Chronicles 2
