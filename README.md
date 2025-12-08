@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains&duration=1000&pause=500&color=7B12E9&center=true&multiline=true&repeat=false&width=435&lines=Hello!+I'm+Cosmo!;CS+Student+%7C+Developer" alt="Typing SVG" /></a>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains&duration=1000&pause=500&color=7B12E9&center=true&multiline=true&repeat=false&width=435&lines=Hello!+I'm+Cosmo!;Developer" alt="Typing SVG" /></a>
      <br/>
     <br/>
-    <a href="https://github.com/TungusSs">
+    <a href="https://github.com/ElCosmoXD">
         <img src="https://github-stats-alpha.vercel.app/api?username=ElCosmoXD&cc=22272e&tc=cc9cfc&ic=fff&bc=0000">
     </a>
 </p>
